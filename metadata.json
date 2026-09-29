@@ -1,0 +1,6 @@
+{
+  "name": "Smart Blood Donor Finder",
+  "description": "Smart emergency blood donor matching platform connecting hospitals with compatible, eligible, and nearby donors in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
